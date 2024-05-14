@@ -1,2 +1,2 @@
-# youtube-dsa-work
+# dsa-work
 Repo for sharing the code
